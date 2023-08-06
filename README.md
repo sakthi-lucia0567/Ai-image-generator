@@ -52,4 +52,5 @@ The Ai-Image-Generator project utilizes the DALL-E 2 API provided by OpenAI. As 
 
 - Contributions are always welcome!
 - Any feature requests and pull requests are welcome!
+- before committing, please explain the feature.
 
